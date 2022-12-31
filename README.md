@@ -1,7 +1,6 @@
 # project1
 # there are three php projects which include CRUD , REGISTRATION FORM , and SUBSCRIBE AND UNSUBSCRIBE FORM
 
-![Capture](https://user-images.githubusercontent.com/119778290/210153037-d785565a-8303-4fa5-938e-a275de74ab81.PNG)
 ![crud-img3](https://user-images.githubusercontent.com/119778290/210153040-200743a7-084a-463e-b004-c9a0bae6ea49.PNG)
 ![crud-img](https://user-images.githubusercontent.com/119778290/210153042-8fb4d3e7-90a8-4ebe-84da-8bb1a398e972.PNG)
 ![crud-img2](https://user-images.githubusercontent.com/119778290/210153047-50d306df-b7b8-436a-addd-b724b0ed2e92.PNG)
